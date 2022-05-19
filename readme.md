@@ -1,5 +1,7 @@
 # Discord Bot Template
 
+[Discord.js Documentation](https://discord.js.org/#/docs/)
+
 ## Setup
 
 Install: `npm install`
