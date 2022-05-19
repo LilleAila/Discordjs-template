@@ -1,0 +1,6 @@
+{
+    "token": "YOUR TOKEN",
+    "clientId": "ID OF THE BOT USER",
+    "guildId": "ID OF THE TEST SERVER",
+    "globalCommands": false
+}
