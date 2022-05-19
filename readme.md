@@ -2,7 +2,7 @@
 
 ## Setup
 
-Install: `npm install`\n\n
+Install: `npm install`\n
 
 Start bot: `node index.js` or `node .`\n
 Deploy slash commands: `node deploy-commands.js`
