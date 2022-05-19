@@ -6,6 +6,8 @@ Install: `npm install`
 
 Start bot: `node index.js` or `node .`
 
+Commands will be automatically loaded, but they need to be deployed before they can be used.
+
 Deploy slash commands: `node deploy-commands.js`
 
 ## Config
