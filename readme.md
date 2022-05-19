@@ -12,5 +12,9 @@ Commands will be automatically loaded, but they need to be deployed before they 
 
 Deploy slash commands: `node deploy-commands.js`
 
+If you are using git to publish your code, remember to add `config.json` to `.gitignore`
+
 ## Config
+Add values to `config.json`
+
 Enable globalCommands to deploy slash commands to all servers, disable to test in one server
